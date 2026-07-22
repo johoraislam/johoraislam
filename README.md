@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Johora-Banner" alt="Johora-Banner" />
+  <img src="Johora-Banner.png" alt="Johora-Banner" />
 </p>
 <p align="center">
 📍 Rajshahi, Bangladesh<br>
