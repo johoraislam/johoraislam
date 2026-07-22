@@ -24,7 +24,6 @@ And I'm currently expanding my backend skills with **TypeScript, Node.js, Expres
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -51,9 +50,9 @@ And I'm currently expanding my backend skills with **TypeScript, Node.js, Expres
 
 <div>
 
-![](https://streak-stats.demolab.com/?user=AsifHossain22&theme=default&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=johoraislam&theme=default&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AsifHossain22&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=johoraislam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
