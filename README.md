@@ -1,9 +1,9 @@
 <!-- Banner -->
 <p align="center">
-  <img src="Asif-Banner.png" alt="Asif Hossain Banner" />
+  <img src="Johora-Banner" alt="Johora-Banner" />
 </p>
 <p align="center">
-📍 Dubai, United Arab Emirates<br>
+📍 Rajshahi, Bangladesh<br>
 🌍 Open to Remote Opportunities
 </p>
 
