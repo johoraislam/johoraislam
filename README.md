@@ -11,7 +11,7 @@
 
 # About Me
 
-My journey into web development started in **December, 2024**. I had dreamed of becoming a **Web Developer** since **2021** and that experience built my **discipline, adaptability and problem-solving skills**.
+My journey into web development started in **December, 2024**. I had dreamed of becoming a **Web Developer** since **2022** and that experience built my **discipline, adaptability and problem-solving skills**.
 
 I'm a **Frontend Web Developer** specializing in **JavaScript and React.** I have experience building responsive web applications using **HTML, CSS, Tailwind, JavaScript, React and MongoDB.**
 
