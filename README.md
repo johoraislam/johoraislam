@@ -50,9 +50,9 @@ And I'm currently expanding my backend skills with **TypeScript, Node.js, Expres
 
 <div>
 
-![](https://streak-stats.demolab.com/?user=johoraislam&theme=default&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=johoraislam22&theme=default&hide_border=false)<br/>
 
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=johoraislam&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=johoraislam22&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
